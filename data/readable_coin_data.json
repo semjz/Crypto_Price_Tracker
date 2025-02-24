@@ -2965,11 +2965,6 @@
         "name": "Albert"
     },
     {
-        "id": "albert-alien",
-        "symbol": "albert",
-        "name": "Albert The Alien"
-    },
-    {
         "id": "alchemist",
         "symbol": "mist",
         "name": "Alchemist"
@@ -5183,11 +5178,6 @@
         "id": "arris",
         "symbol": "ars",
         "name": "Arris"
-    },
-    {
-        "id": "arrland-arrc",
-        "symbol": "arrc",
-        "name": "Arrland ARRC"
     },
     {
         "id": "arrland-rum",
@@ -9336,7 +9326,7 @@
     },
     {
         "id": "billion-dollar-cat-runes",
-        "symbol": "billy",
+        "symbol": "bdc",
         "name": "BILLION\u2022DOLLAR\u2022CAT (Bitcoin)"
     },
     {
@@ -15755,11 +15745,6 @@
         "name": "CHAX"
     },
     {
-        "id": "check",
-        "symbol": "check",
-        "name": "CHECK"
-    },
-    {
         "id": "checkdot",
         "symbol": "cdt",
         "name": "CheckDot"
@@ -17695,11 +17680,6 @@
         "name": "Content Bitcoin"
     },
     {
-        "id": "contentbox",
-        "symbol": "box",
-        "name": "ContentBox"
-    },
-    {
         "id": "contentos",
         "symbol": "cos",
         "name": "Contentos"
@@ -18508,11 +18488,6 @@
         "id": "cresio",
         "symbol": "xcre",
         "name": "Cresio"
-    },
-    {
-        "id": "creso-2",
-        "symbol": "cre",
-        "name": "Creso"
     },
     {
         "id": "creta-world",
@@ -20818,6 +20793,11 @@
         "id": "deerman",
         "symbol": "deerman",
         "name": "deerman"
+    },
+    {
+        "id": "deer-token",
+        "symbol": "deer",
+        "name": "DEER TOKEN"
     },
     {
         "id": "deez-nuts-2",
@@ -26432,7 +26412,7 @@
     {
         "id": "eraape",
         "symbol": "eape",
-        "name": "EraApe"
+        "name": "EraApe [OLD]"
     },
     {
         "id": "e-radix",
@@ -29403,6 +29383,11 @@
         "id": "for-loot-and-glory",
         "symbol": "flag",
         "name": "For Loot And Glory"
+    },
+    {
+        "id": "form",
+        "symbol": "form",
+        "name": "Form"
     },
     {
         "id": "formation-fi",
@@ -32388,11 +32373,6 @@
         "id": "goku",
         "symbol": "goku",
         "name": "Goku"
-    },
-    {
-        "id": "gokuswap",
-        "symbol": "goku",
-        "name": "Gokuswap"
     },
     {
         "id": "golazo-world",
@@ -39860,6 +39840,11 @@
         "name": "Ketaicoin"
     },
     {
+        "id": "ketamine-cat",
+        "symbol": "ket",
+        "name": "Ketamine Cat"
+    },
+    {
         "id": "ketnipz",
         "symbol": "nipz",
         "name": "Ketnipz"
@@ -44847,7 +44832,7 @@
     {
         "id": "magic-internet-money-runes",
         "symbol": "mim",
-        "name": "MAGIC\u2022INTERNET\u2022MONEY (Runes)"
+        "name": "MAGIC\u2022INTERNET\u2022MONEY (Bitcoin)"
     },
     {
         "id": "magic-lum",
@@ -50930,6 +50915,11 @@
         "name": "NAVI Protocol"
     },
     {
+        "id": "navigate",
+        "symbol": "nvg8",
+        "name": "Navigate"
+    },
+    {
         "id": "navy-seal",
         "symbol": "navyseal",
         "name": "Navy seal"
@@ -52145,11 +52135,6 @@
         "name": "NinaPumps"
     },
     {
-        "id": "ninjapepe",
-        "symbol": "ninjapepe",
-        "name": "NinjaPepe"
-    },
-    {
         "id": "ninja-protocol",
         "symbol": "ninja",
         "name": "Ninja Protocol"
@@ -53138,11 +53123,6 @@
         "id": "nxt",
         "symbol": "nxt",
         "name": "NXT"
-    },
-    {
-        "id": "nxtchain",
-        "symbol": "nxt",
-        "name": "NXTChain"
     },
     {
         "id": "nx-token",
@@ -54563,6 +54543,11 @@
         "id": "oracle-meta-technologies",
         "symbol": "omt",
         "name": "Oracle Meta Technologies"
+    },
+    {
+        "id": "oracler-ai",
+        "symbol": "oracler",
+        "name": "Oracler AI"
     },
     {
         "id": "oracleswap",
@@ -59185,16 +59170,6 @@
         "name": "PoSciDonDAO Token"
     },
     {
-        "id": "poseidollar",
-        "symbol": "pdo",
-        "name": "Poseidollar"
-    },
-    {
-        "id": "poseidollar-shares",
-        "symbol": "psh",
-        "name": "Poseidollar Shares"
-    },
-    {
         "id": "poseidon-2",
         "symbol": "psdn",
         "name": "Poseidon"
@@ -61638,11 +61613,6 @@
         "id": "reach",
         "symbol": "$reach",
         "name": "Reach"
-    },
-    {
-        "id": "reaction",
-        "symbol": "rtc",
-        "name": "Reaction"
     },
     {
         "id": "reactive-network",
@@ -65147,7 +65117,7 @@
     {
         "id": "seapad",
         "symbol": "spt",
-        "name": "SeaPad"
+        "name": "SeaFi"
     },
     {
         "id": "search",
@@ -65438,11 +65408,6 @@
         "id": "sender-ai",
         "symbol": "asi",
         "name": "Sender AI"
-    },
-    {
-        "id": "sendex-ai",
-        "symbol": "sendex",
-        "name": "Sendex AI"
     },
     {
         "id": "sendit",
@@ -81413,6 +81378,11 @@
         "id": "woofer",
         "symbol": "woofer",
         "name": "woofer"
+    },
+    {
+        "id": "woofi-the-genius-dog",
+        "symbol": "woofi",
+        "name": "Woofi the genius dog"
     },
     {
         "id": "wooforacle",
