@@ -30,7 +30,11 @@ class Visualizer:
         fig.show()
 
     def retrieve_data(self):
-        return pd.read_csv(self.file_loc)
+        """Retrieves price history data safely."""
+        try:
+            return pd.read_csv(self.file_loc)
+        except (FileNotFoundError, pd.errors.EmptyDataError):
+            return pd.DataFrame(columns=["datetime", "price_hour_ago"])
 
     # Update the graph dynamically
     @app.callback(
